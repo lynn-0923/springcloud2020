@@ -19,13 +19,13 @@ public class PaymentServiceImpl implements PaymentService {
     @Resource
     private PaymentDao paymentDao;
 
+    @Override
     public int create(Payment payment){
         return paymentDao.create(payment);
     }
 
     @Override
-    @Transactional
-    public Payment getElementById(@Param("id") Long id){
-        return paymentDao.getElementById(id);
+    public Payment getPaymentById(@Param("id") Long id){
+        return paymentDao.getPaymentById(id);
     }
 }

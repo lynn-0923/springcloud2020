@@ -11,5 +11,5 @@ public interface PaymentService {
 
     int create(Payment payment);
 
-    Payment getElementById(@Param("id") Long id);
+    Payment getPaymentById(@Param("id") Long id);
 }
