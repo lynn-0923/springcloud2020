@@ -3,27 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="8e04f1ef-ff44-4cd4-93c8-92ef5832541a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/wu/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/wu/springcloud/OrderMain80.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/wu/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/wu/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/wu/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/wu/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wu/springcloud/config/ApplicationContextConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wu/springcloud/config/ApplicationContextConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wu/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wu/springcloud/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wu/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wu/springcloud/OrderMain80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wu/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wu/springcloud/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/springcloud/EurekaMain7002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/src/main/java/com/wu/springcloud/EurekaMain7002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/springcloud/EurekaMain7002.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/PaymentMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/PaymentMain8001.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/dao/PaymentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wu/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/PaymentMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/PaymentMain8001.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/dao/PaymentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/dao/PaymentDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/service/PaymentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wu/springcloud/service/impl/PaymentServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/springcloud/PaymentMain8002.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/wu/springcloud/PaymentMain8002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/wu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/springcloud/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/wu/springcloud/dao/PaymentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/wu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/wu/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/springcloud/PaymentMain8002.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/springcloud/controller/PaymentController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/springcloud/dao/PaymentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/springcloud/service/PaymentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,6 +120,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wu.springcloud.config" />
       <recent name="springcloud" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -145,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PaymentMain8002">
+  <component name="RunManager" selected="Spring Boot.OrderMain80">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -165,14 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wu.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wu.springcloud.EurekaMain7001" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -182,11 +179,24 @@
       <module name="cloud-eureka-server7002" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="springcloud.*" />
+          <option name="PATTERN" value="com.wu.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.EurekaMain7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wu.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-consul-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wu.springcloud.OrderConsulMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -221,11 +231,11 @@
       <module name="cloud-provider-payment8002" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="springcloud.*" />
+          <option name="PATTERN" value="com.wu.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="springcloud.PaymentMain8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wu.springcloud.PaymentMain8002" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -250,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.PaymentMain8001" />
-        <item itemvalue="Spring Boot.PaymentMain8002" />
         <item itemvalue="Spring Boot.OrderMain80" />
+        <item itemvalue="Spring Boot.PaymentMain8002" />
+        <item itemvalue="Spring Boot.PaymentMain8001" />
         <item itemvalue="Spring Boot.EurekaMain7002" />
-        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.OrderConsulMain80" />
       </list>
     </recent_temporary>
   </component>
@@ -266,16 +276,17 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@bc038ca4" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7870aa52" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@bc038ca4" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7defb7fd" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7870aa52" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@eae01fa3" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@b7380db4" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7870aa52" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@ed979b9c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
           <select />
@@ -296,7 +307,9 @@
       <workItem from="1589528709056" duration="12303000" />
       <workItem from="1589545901699" duration="4535000" />
       <workItem from="1589550613930" duration="2709000" />
-      <workItem from="1589589858443" duration="19410000" />
+      <workItem from="1589589858443" duration="20068000" />
+      <workItem from="1589702905068" duration="3370000" />
+      <workItem from="1589707934158" duration="12783000" />
     </task>
     <servers />
   </component>
@@ -308,7 +321,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
