@@ -1,0 +1,6 @@
+com\wu\myrule\MySelfRule.class
+com\wu\springcloud\lb\LoadBalancer.class
+com\wu\springcloud\config\ApplicationContextConfig.class
+com\wu\springcloud\lb\MyLB.class
+com\wu\springcloud\OrderMain80.class
+com\wu\springcloud\controller\OrderController.class

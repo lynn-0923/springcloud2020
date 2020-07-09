@@ -1,0 +1,4 @@
+F:\cloud2020\cloud-consumer-feign-hystrix-order80\src\main\java\com\wu\springcloud\service\PaymentHystrixService.java
+F:\cloud2020\cloud-consumer-feign-hystrix-order80\src\main\java\com\wu\springcloud\OrderHystrixMain80.java
+F:\cloud2020\cloud-consumer-feign-hystrix-order80\src\main\java\com\wu\springcloud\controller\PaymentHystrixController.java
+F:\cloud2020\cloud-consumer-feign-hystrix-order80\src\main\java\com\wu\springcloud\service\PaymentFallbackService.java
